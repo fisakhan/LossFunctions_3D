@@ -25,12 +25,12 @@ Adaptive sample weighting (CurricularFace) and unified margin mapping (UniFace) 
 Check out the side-by-side progression across 50 epochs in the video. 📽️
 
 <p align="center">
-<img src="softmax_loss_3d_all3.png" alt="." width="400"> 
+<img src="softmax_loss_3d_all3.png" alt="1" width="400"> 
 </p>
 <p align="center">
-<img src="curricularface_loss_3d_all3.png" alt="." width="400"> 
+<img src="curricularface_loss_3d_all3.png" alt="2" width="400"> 
 </p>
 <p align="center">
-<img src="uniface_loss_3d_all3.png" alt="." width="400"> 
+<img src="uniface_loss_3d_all3.png" alt="3" width="400"> 
 </p>
 
