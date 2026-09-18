@@ -22,6 +22,4 @@ Standard Softmax focuses on separability, but metric learning losses focus on co
 
 Adaptive sample weighting (CurricularFace) and unified margin mapping (UniFace) significantly reduce false acceptance rates (FAR) in open-set identification.
 
-Normalizing features and weights onto a unit sphere ($\vert{}\vert{}x\vert{}\vert{}=1, \vert{}\vert{}w\vert{}\vert{}=1$) transforms high-dimensional feature learning into geometric angle optimization.
-
 Check out the side-by-side progression across 50 epochs in the video. 📽️
