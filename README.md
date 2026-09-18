@@ -28,5 +28,9 @@ Check out the side-by-side progression across 50 epochs in the video. 📽️
 softmax_loss_3d_all3.png
 </p>
 
+<p align="center">
+<img src="softmax_loss_3d_all3.png" alt="TinyML From Scratch Book Cover" width="400">
+</p>
+
 curricularface_loss_3d_all3.png
 uniface_loss_3d_all3.png
