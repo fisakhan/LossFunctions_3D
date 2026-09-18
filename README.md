@@ -27,5 +27,6 @@ Check out the side-by-side progression across 50 epochs in the video. 📽️
 <p align="center">
 softmax_loss_3d_all3.png
 </p>
+
 curricularface_loss_3d_all3.png
 uniface_loss_3d_all3.png
