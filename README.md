@@ -1,4 +1,4 @@
-#Visualizing Loss Functions in 3D: Softmax vs. CurricularFace vs. UniFace (UCE)
+# Visualizing Loss Functions in 3D: Softmax vs. CurricularFace vs. UniFace (UCE)
 
 Ever wondered what actually happens to feature embeddings in high-dimensional space as a loss function trains?
 
