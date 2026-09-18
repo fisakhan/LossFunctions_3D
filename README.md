@@ -34,3 +34,8 @@ Check out the side-by-side progression across 50 epochs in the video. 📽️
 <img src="uniface_3d_all3.png" alt="3" width="400"> 
 </p>
 
+## Acknowledgements
+This project benefited from ideas, implementations, and inspiration from the following repositories:
+- [https://github.com/user/repo1](https://github.com/CVI-SZU/UniFace)
+- [https://github.com/user/repo2](https://github.com/HuangYG123/CurricularFace)
+
