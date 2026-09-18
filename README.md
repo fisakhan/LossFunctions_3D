@@ -36,6 +36,6 @@ Check out the side-by-side progression across 50 epochs in the video. 📽️
 
 ## Acknowledgements
 This project benefited from ideas, implementations, and inspiration from the following repositories:
-- [https://github.com/user/repo1](https://github.com/CVI-SZU/UniFace)
-- [https://github.com/user/repo2](https://github.com/HuangYG123/CurricularFace)
+- [Unified Cross-Entropy (UCE) Loss](https://github.com/CVI-SZU/UniFace)
+- [CurricularFace Loss](https://github.com/HuangYG123/CurricularFace)
 
