@@ -1,5 +1,7 @@
 # Visualizing Loss Functions in 3D: Softmax vs. CurricularFace vs. UniFace (UCE)
-
+<p align="center">
+<img src="uniface_evolution.gif" alt="uniface_gif" width="400"> 
+</p>
 Ever wondered what actually happens to feature embeddings in high-dimensional space as a loss function trains?
 
 To see how modern margin-based losses force tighter intra-class clusters and wider inter-class boundaries on the unit hypersphere, I built a 3D visualization comparing three distinct paradigms trained on MNIST:
