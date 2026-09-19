@@ -1,4 +1,5 @@
 # Visualizing Loss Functions in 3D: Softmax vs. CurricularFace vs. UniFace (UCE)
+## Visualizing 50 Epochs of CNN Digit Recognition Training
 <p align="center">
 <img src="uniface_evolution.gif" alt="uniface_gif" width="400"> 
 </p>
